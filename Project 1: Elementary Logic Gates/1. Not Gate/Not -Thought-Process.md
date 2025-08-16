@@ -19,9 +19,9 @@
 | 1 | 1 |  0  |
 
 ## Example
-- Not(1) = 0  
-- Nand(1,1) = 0  
-- Nand(x,x) = 0  
+- `Not(1) = 0 ` 
+- `Nand(1,1) = 0`  
+- `Nand(x,x) = 0 ` 
 
 ## Implementation in HDL
 ```hdl
